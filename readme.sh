@@ -2,5 +2,5 @@
 包含四项主要工作
 1 DevOps: JIRA+git+jenkins+k8s
 2 监控: zabbix prometheus-grafana ELK
-3 openstack: kvm
+3 openstack: openstac-kvm
 4 Infra类: jumper CMDB
